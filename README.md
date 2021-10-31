@@ -33,7 +33,7 @@ Options:
        -help|h            brief help message
        
        
-# abcd means four types of binding style(position relationship between TF and its two closest genes of each side), a, two genes are same direction of positive. c, same direction of negative. b, left side gene is positive direction and right side gene is negative direction. d, left gene is negative direction and right side is positive direction.
+abcd means four types of binding style(position relationship between TF and its two closest genes of each side), a, two genes are same direction of positive. c, same direction of negative. b, left side gene is positive direction and right side gene is negative direction. d, left gene is negative direction and right side is positive direction.
 
 
 
